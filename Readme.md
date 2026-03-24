@@ -33,8 +33,7 @@ python app.py
 
 5. 使用Owner的Telegram账户打开机器人私聊
 输入:
-```/install
-```
+/install
 完成机器人配置
 
 ## Owner账户配置
